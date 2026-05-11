@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
-mx: dts-discoverytrust-org.mail.protection.outlook.com
+mx: ENTER MX RECORD HERE
 max_age: 864001
